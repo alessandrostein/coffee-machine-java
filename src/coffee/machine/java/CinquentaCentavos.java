@@ -10,8 +10,8 @@ package coffee.machine.java;
  *
  * @author alessandrostein
  */
-public abstract class Moeda {
-    
-    public float valor; 
+public class CinquentaCentavos extends Moeda{
+
+    public float valor = 50;
     
 }
